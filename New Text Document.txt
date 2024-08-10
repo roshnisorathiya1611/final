@@ -1,0 +1,5 @@
+nodemon not running use this command
+ 
+Set-ExecutionPolicy RemoteSigned –Scope Process
+
+//import "./updateProfile.css";
